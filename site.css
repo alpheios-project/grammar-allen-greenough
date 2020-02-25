@@ -1336,3 +1336,8 @@ border: 1px solid #cacaca;
 	filter: Alpha(Opacity=30);
 	border-radius: 8px;
 }
+
+/** Hide the videos **/
+.media-youtube-video {
+  display: none;
+}
