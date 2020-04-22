@@ -13,7 +13,7 @@ deploy:
   local_dir: "."
   upload_dir: allen-greenough
   acl: public_read
-  cache_control: max-age=15552000
+  cache_control: max-age=604800
   on:
     repo: alpheios-project/grammar-allen-greenough
     branch: master
