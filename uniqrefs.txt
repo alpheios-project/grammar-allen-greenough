@@ -89,31 +89,31 @@ http://dcc.dickinson.edu/grammar/latin/distributives                            
 http://dcc.dickinson.edu/grammar/latin/dum-dōnec-and-quoad                                  subordinate-clauses.htm#sect12
 http://dcc.dickinson.edu/grammar/latin/epistolary-tenses                                    moods-tenses.htm#sect20
 http://dcc.dickinson.edu/grammar/latin/ethical-dative                                       caseuses.htm#sect17
-http://dcc.dickinson.edu/grammar/latin/formation-adjectives
-http://dcc.dickinson.edu/grammar/latin/formation-supine
-http://dcc.dickinson.edu/grammar/latin/formation-words
-http://dcc.dickinson.edu/grammar/latin/forms-participle
-http://dcc.dickinson.edu/grammar/latin/future-participle
-http://dcc.dickinson.edu/grammar/latin/gender
-http://dcc.dickinson.edu/grammar/latin/general-conditions
-http://dcc.dickinson.edu/grammar/latin/general-rules-quantity
-http://dcc.dickinson.edu/grammar/latin/general-rules-quantity#quantity-syllables
-http://dcc.dickinson.edu/grammar/latin/gerund-and-supine
-http://dcc.dickinson.edu/grammar/latin/glossary
-http://dcc.dickinson.edu/grammar/latin/glossary#rhetorical-figures
-http://dcc.dickinson.edu/grammar/latin/hortatory-subjunctive
-http://dcc.dickinson.edu/grammar/latin/imperative
-http://dcc.dickinson.edu/grammar/latin/imperative#prohibition
-http://dcc.dickinson.edu/grammar/latin/imperfect-tense
-http://dcc.dickinson.edu/grammar/latin/important-rules-syntax
-http://dcc.dickinson.edu/grammar/latin/indefinite-pronouns
-http://dcc.dickinson.edu/grammar/latin/indicative-mood
-http://dcc.dickinson.edu/grammar/latin/indicative-quod
-http://dcc.dickinson.edu/grammar/latin/indirect-questions
-http://dcc.dickinson.edu/grammar/latin/infinitive
-http://dcc.dickinson.edu/grammar/latin/infinitive-noun
-http://dcc.dickinson.edu/grammar/latin/inflected-language
-http://dcc.dickinson.edu/grammar/latin/interjections
+http://dcc.dickinson.edu/grammar/latin/formation-adjectives                                 adjective-declensions.htm#sect1
+http://dcc.dickinson.edu/grammar/latin/formation-supine                                     conj11.htm#sect14
+http://dcc.dickinson.edu/grammar/latin/formation-words                                      wordformation.htm#sect1
+http://dcc.dickinson.edu/grammar/latin/forms-participle                                     conj2.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/future-participle                                    participles.htm#sect3
+http://dcc.dickinson.edu/grammar/latin/gender                                               inflection.htm#sect3
+http://dcc.dickinson.edu/grammar/latin/general-conditions                                   conditionals.htm#sect5
+http://dcc.dickinson.edu/grammar/latin/general-rules-quantity                               quantity.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/general-rules-quantity#quantity-syllables            quantity.htm#quantity-syllables
+http://dcc.dickinson.edu/grammar/latin/gerund-and-supine                                    conj3.htm#sect3
+http://dcc.dickinson.edu/grammar/latin/glossary                                             glossary.htm
+http://dcc.dickinson.edu/grammar/latin/glossary#rhetorical-figures                          glossary.htm#rhetorical-figures
+http://dcc.dickinson.edu/grammar/latin/hortatory-subjunctive                                moods-tenses.htm#sect4
+http://dcc.dickinson.edu/grammar/latin/imperative                                           moods-tenses.htm#sect4
+http://dcc.dickinson.edu/grammar/latin/imperative#prohibition                               moods-tenses.htm#prohibition
+http://dcc.dickinson.edu/grammar/latin/imperfect-tense                                      moods-tenses.htm#sect16
+http://dcc.dickinson.edu/grammar/latin/important-rules-syntax                               rules-syntax.htm#sect1
+http://dcc.dickinson.edu/grammar/latin/indefinite-pronouns                                  syntax.htm#sect14
+http://dcc.dickinson.edu/grammar/latin/indicative-mood                                      moods-tenses.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/indicative-quod                                      subordinate-clauses.htm#sect17
+http://dcc.dickinson.edu/grammar/latin/indirect-questions                                   subordinate-clauses.htm#sect18
+http://dcc.dickinson.edu/grammar/latin/infinitive                                           moods-tenses.htm#sect9
+http://dcc.dickinson.edu/grammar/latin/infinitive-noun                                      moods-tenses.htm#sect10
+http://dcc.dickinson.edu/grammar/latin/inflected-language                                   inflection.htm#sect1
+http://dcc.dickinson.edu/grammar/latin/interjections                                        interjections.htm
 http://dcc.dickinson.edu/grammar/latin/intermediate-clauses
 http://dcc.dickinson.edu/grammar/latin/intermediate-clauses#informal-indirect-discourse
 http://dcc.dickinson.edu/grammar/latin/intermediate-clauses#subjunctive-integral-part
