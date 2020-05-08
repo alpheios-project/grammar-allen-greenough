@@ -114,66 +114,66 @@ http://dcc.dickinson.edu/grammar/latin/infinitive                               
 http://dcc.dickinson.edu/grammar/latin/infinitive-noun                                      moods-tenses.htm#sect10
 http://dcc.dickinson.edu/grammar/latin/inflected-language                                   inflection.htm#sect1
 http://dcc.dickinson.edu/grammar/latin/interjections                                        interjections.htm
-http://dcc.dickinson.edu/grammar/latin/intermediate-clauses
-http://dcc.dickinson.edu/grammar/latin/intermediate-clauses#informal-indirect-discourse
-http://dcc.dickinson.edu/grammar/latin/intermediate-clauses#subjunctive-integral-part
-http://dcc.dickinson.edu/grammar/latin/irregular-and-defective-comparison-adjectives
-http://dcc.dickinson.edu/grammar/latin/irregular-derivatives
-http://dcc.dickinson.edu/grammar/latin/irregularities-and-special-uses-adjectives
-http://dcc.dickinson.edu/grammar/latin/irregular-verbs-compounds-sum
-http://dcc.dickinson.edu/grammar/latin/irregular-verbs-dō-eō-and-adeō
-http://dcc.dickinson.edu/grammar/latin/irregular-verbs-ferō-and-edō
-http://dcc.dickinson.edu/grammar/latin/irregular-verbs-volō-nōlō-mālō
-http://dcc.dickinson.edu/grammar/latin/kindred-forms
-http://dcc.dickinson.edu/grammar/latin/measures
-http://dcc.dickinson.edu/grammar/latin/measures#measures-capacity
-http://dcc.dickinson.edu/grammar/latin/measures#measures-length
-http://dcc.dickinson.edu/grammar/latin/measures#measures-weight
-http://dcc.dickinson.edu/grammar/latin/negative-particles
-http://dcc.dickinson.edu/grammar/latin/nominative
-http://dcc.dickinson.edu/grammar/latin/nouns-adjective-suffixes
-http://dcc.dickinson.edu/grammar/latin/nouns-defective-cases
-http://dcc.dickinson.edu/grammar/latin/nouns-lacking-singular
-http://dcc.dickinson.edu/grammar/latin/numeral-adverbs
-http://dcc.dickinson.edu/grammar/latin/optative-subjunctive
-http://dcc.dickinson.edu/grammar/latin/order-words
-http://dcc.dickinson.edu/grammar/latin/origins-quantity
-http://dcc.dickinson.edu/grammar/latin/orthography
-http://dcc.dickinson.edu/grammar/latin/other-numerals
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#exclamatory-infinitive
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#exclamatory-infinitives
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#historical-infinitive
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#infinitive-purpose
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#peculiar-infinitives
-http://dcc.dickinson.edu/grammar/latin/parallel-forms
-http://dcc.dickinson.edu/grammar/latin/particles
-http://dcc.dickinson.edu/grammar/latin/particular-conditions
-http://dcc.dickinson.edu/grammar/latin/particular-conditions#future
-http://dcc.dickinson.edu/grammar/latin/parts-speech
-http://dcc.dickinson.edu/grammar/latin/peculiar-genitives
-http://dcc.dickinson.edu/grammar/latin/peculiarities
-http://dcc.dickinson.edu/grammar/latin/perfect-stem
-http://dcc.dickinson.edu/grammar/latin/perfect-system
-http://dcc.dickinson.edu/grammar/latin/perfect-tense
-http://dcc.dickinson.edu/grammar/latin/periphrastic-conjugations
-http://dcc.dickinson.edu/grammar/latin/personal-endings
-http://dcc.dickinson.edu/grammar/latin/personal-pronouns
-http://dcc.dickinson.edu/grammar/latin/personal-pronouns-paradigm
-http://dcc.dickinson.edu/grammar/latin/phonetic-change
-http://dcc.dickinson.edu/grammar/latin/pluperfect-and-future-perfect-tenses
-http://dcc.dickinson.edu/grammar/latin/pluperfect-and-future-perfect-tenses#future-perfect
-http://dcc.dickinson.edu/grammar/latin/possesive-pronouns
-http://dcc.dickinson.edu/grammar/latin/possessive-pronouns-paradigm
-http://dcc.dickinson.edu/grammar/latin/potential-subjunctive
-http://dcc.dickinson.edu/grammar/latin/present-stem
-http://dcc.dickinson.edu/grammar/latin/present-system
-http://dcc.dickinson.edu/grammar/latin/present-tense
-http://dcc.dickinson.edu/grammar/latin/pronouns
-http://dcc.dickinson.edu/grammar/latin/pronouns-classes
-http://dcc.dickinson.edu/grammar/latin/protasis-and-apodasis
-http://dcc.dickinson.edu/grammar/latin/protasis-and-apodosis
-http://dcc.dickinson.edu/grammar/latin/purpose-clauses
+http://dcc.dickinson.edu/grammar/latin/intermediate-clauses                                 indirect-discourse.htm#sect9
+http://dcc.dickinson.edu/grammar/latin/intermediate-clauses#informal-indirect-discourse     indirect-discourse.htm#informal-indirect-discourse
+http://dcc.dickinson.edu/grammar/latin/intermediate-clauses#subjunctive-integral-part       indirect-discourse.htm#subjunctive-integral-part
+http://dcc.dickinson.edu/grammar/latin/irregular-and-defective-comparison-adjectives        adjective-declensions.htm#sect10
+http://dcc.dickinson.edu/grammar/latin/irregular-derivatives                                wordformation.htm#sect7
+http://dcc.dickinson.edu/grammar/latin/irregularities-and-special-uses-adjectives           adjective-declensions.htm#sect8
+http://dcc.dickinson.edu/grammar/latin/irregular-verbs-compounds-sum                        conj21.htm#sect26
+http://dcc.dickinson.edu/grammar/latin/irregular-verbs-dō-eō-and-adeō                       conj25.htm#sect29
+http://dcc.dickinson.edu/grammar/latin/irregular-verbs-ferō-and-edō                         conj24.htm#sect28
+http://dcc.dickinson.edu/grammar/latin/irregular-verbs-volō-nōlō-mālō                       conj23.htm#sect27
+http://dcc.dickinson.edu/grammar/latin/kindred-forms                                        pronunciation.htm#sect10
+http://dcc.dickinson.edu/grammar/latin/measures                                             measurement.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/measures#measures-capacity                           measurement.htm#measures-capacity
+http://dcc.dickinson.edu/grammar/latin/measures#measures-length                             measurement.htm#measures-length
+http://dcc.dickinson.edu/grammar/latin/measures#measures-weight                             measurement.htm#measures-weight
+http://dcc.dickinson.edu/grammar/latin/negative-particles                                   syntax.htm#sect18
+http://dcc.dickinson.edu/grammar/latin/nominative                                           caseuses.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/nouns-adjective-suffixes                             wordformation.htm#sect6
+http://dcc.dickinson.edu/grammar/latin/nouns-defective-cases                                noun-declensions.htm#sect29
+http://dcc.dickinson.edu/grammar/latin/nouns-lacking-singular                               noun-declensions.htm#sect28
+http://dcc.dickinson.edu/grammar/latin/numeral-adverbs                                      numerals.htm#sect6
+http://dcc.dickinson.edu/grammar/latin/optative-subjunctive                                 moods-tenses.htm#sect5
+http://dcc.dickinson.edu/grammar/latin/order-words                                          rules-syntax.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/origins-quantity                                     quantity.htm#sect1
+http://dcc.dickinson.edu/grammar/latin/orthography                                          pronunciation.htm#sect3
+http://dcc.dickinson.edu/grammar/latin/other-numerals                                       numerals.htm#sect7
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive                                moods-tenses.htm#sect13
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#exclamatory-infinitive         moods-tenses.htm#exclamatory-infinitive
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#exclamatory-infinitives  ----> should be infinitive - see above link
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#historical-infinitive          moods-tenses.htm#historical-infinitive
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#infinitive-purpose             moods-tenses.htm#infinitive-purpose
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#peculiar-infinitives --(typo)--moods-tenses.htm#peculiar-infinities
+http://dcc.dickinson.edu/grammar/latin/parallel-forms                                       conj19.htm#sect23
+http://dcc.dickinson.edu/grammar/latin/particles                                            particles.htm
+http://dcc.dickinson.edu/grammar/latin/particular-conditions                                conditionals.htm#sect4
+http://dcc.dickinson.edu/grammar/latin/particular-conditions#future                         conditionals.htm#future
+http://dcc.dickinson.edu/grammar/latin/parts-speech                                         speech.htm
+http://dcc.dickinson.edu/grammar/latin/peculiar-genitives                                   caseuses.htm#sect8
+http://dcc.dickinson.edu/grammar/latin/peculiarities                                        conj13.htm#sect17
+http://dcc.dickinson.edu/grammar/latin/perfect-stem                                         conj10.htm#sect13
+http://dcc.dickinson.edu/grammar/latin/perfect-system                                       conj6.htm#sect9
+http://dcc.dickinson.edu/grammar/latin/perfect-tense                                        moods-tenses.htm#sect18
+http://dcc.dickinson.edu/grammar/latin/periphrastic-conjugations                            conj20.htm#sect25
+http://dcc.dickinson.edu/grammar/latin/personal-endings                                     conj3.htm#sect5
+http://dcc.dickinson.edu/grammar/latin/personal-pronouns                                    syntax.htm#sect9
+http://dcc.dickinson.edu/grammar/latin/personal-pronouns-paradigm                           pronouns.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/phonetic-change                                      pronunciation.htm#sect9
+http://dcc.dickinson.edu/grammar/latin/pluperfect-and-future-perfect-tenses                 moods-tenses.htm#sect19
+http://dcc.dickinson.edu/grammar/latin/pluperfect-and-future-perfect-tenses#future-perfect  moods-tenses.htm#future-perfect
+http://dcc.dickinson.edu/grammar/latin/possesive-pronouns                                   syntax.htm#sect12
+http://dcc.dickinson.edu/grammar/latin/possessive-pronouns-paradigm                         pronouns.htm#sect4
+http://dcc.dickinson.edu/grammar/latin/potential-subjunctive                                moods-tenses.htm#sect7
+http://dcc.dickinson.edu/grammar/latin/present-stem                                         conj9.htm#sect12
+http://dcc.dickinson.edu/grammar/latin/present-system                                       conj5.htm#sect8
+http://dcc.dickinson.edu/grammar/latin/present-tense                                        moods-tenses.htm#sect15
+http://dcc.dickinson.edu/grammar/latin/pronouns                                             syntax.htm#sect8
+http://dcc.dickinson.edu/grammar/latin/pronouns-classes                                     pronouns.htm#sect1
+http://dcc.dickinson.edu/grammar/latin/protasis-and-apodasis  ---typo---                    conditionals.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/protasis-and-apodosis                                conditionals.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/purpose-clauses                                      subordinate-clauses.htm#sect5
 http://dcc.dickinson.edu/grammar/latin/quantity
 http://dcc.dickinson.edu/grammar/latin/quantity-derivatives
 http://dcc.dickinson.edu/grammar/latin/quantity-perfects-and-perfect-participles
