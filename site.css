@@ -15,9 +15,6 @@ td.data {
 	letter-spacing:.5px;
 	line-height:25px;
 	padding: 0px 30px 0 30px;
-	-webkit-box-shadow: 0px 3px 3px 3px rgba(44, 44, 44, .2);
-	-moz-box-shadow: 0px 3px 3px 3px rgba(44, 44, 44, .2);
-	box-shadow: 0px 3px 3px 3px rgba(44, 44, 44, .2);
 }
 
 /** Hide the videos **/
