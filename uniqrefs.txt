@@ -73,14 +73,14 @@ http://dcc.dickinson.edu/grammar/latin/demonstrative-pronouns                   
 http://dcc.dickinson.edu/grammar/latin/demonstrative-pronouns-paradigms                     pronouns.htm#sect5
 http://dcc.dickinson.edu/grammar/latin/deponent-verbs                                       conj20.htm#sect24
 http://dcc.dickinson.edu/grammar/latin/derivation-adjectives                                wordformation.htm#sect5
-http://dcc.dickinson.edu/grammar/latin/derivation-adjectives#nominal-adjecives   ---->   this one has a typo
+http://dcc.dickinson.edu/grammar/latin/derivation-adjectives#nominal-adjecives              wordformation.htm#nominal-adjectives
 http://dcc.dickinson.edu/grammar/latin/derivation-adjectives#nominal-adjectives             wordformation.htm#nominal-adjectives
-http://dcc.dickinson.edu/grammar/latin/derivation-adjectives#nominal-edjectives   --->   this one has a typo
+http://dcc.dickinson.edu/grammar/latin/derivation-adjectives#nominal-edjectives             wordformation.htm#nominal-adjectives
 http://dcc.dickinson.edu/grammar/latin/derivation-adjectives#verbal-adjectives              wordformation.htm#verbal-adjectives
 http://dcc.dickinson.edu/grammar/latin/derivation-prepositions                              prepositions.htm#sect1
 http://dcc.dickinson.edu/grammar/latin/derivation-tenses                                    moods-tenses.htm#sect14
 http://dcc.dickinson.edu/grammar/latin/derivation-verbs                                     wordformation.htm#sect8
-http://dcc.dickinson.edu/grammar/latin/derivation-verbs#          ---->   this one is probably intensives-or-iteratives so I added it below
+http://dcc.dickinson.edu/grammar/latin/derivation-verbs#                                    wordformation.htm#verbs-from-other-verbs
 http://dcc.dickinson.edu/grammar/latin/derivation-verbs#intensives-or-iteratives            wordformation.htm#intensives-or-iteratives
 http://dcc.dickinson.edu/grammar/latin/derivation-verbs#denominative-verbs                  wordformation.htm#denominative-verbs
 http://dcc.dickinson.edu/grammar/latin/derivation-verbs#verbs-from-other-verbs              wordformation.htm#verbs-from-other-verbs
@@ -142,10 +142,10 @@ http://dcc.dickinson.edu/grammar/latin/orthography                              
 http://dcc.dickinson.edu/grammar/latin/other-numerals                                       numerals.htm#sect7
 http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive                                moods-tenses.htm#sect13
 http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#exclamatory-infinitive         moods-tenses.htm#exclamatory-infinitive
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#exclamatory-infinitives  ----> should be infinitive - see above link
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#exclamatory-infinitives        moods-tenses.htm#exclamatory-infinitive
 http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#historical-infinitive          moods-tenses.htm#historical-infinitive
 http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#infinitive-purpose             moods-tenses.htm#infinitive-purpose
-http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#peculiar-infinitives --(typo)--moods-tenses.htm#peculiar-infinities
+http://dcc.dickinson.edu/grammar/latin/other-uses-infinitive#peculiar-infinitives           moods-tenses.htm#peculiar-infinities
 http://dcc.dickinson.edu/grammar/latin/parallel-forms                                       conj19.htm#sect23
 http://dcc.dickinson.edu/grammar/latin/particles                                            particles.htm
 http://dcc.dickinson.edu/grammar/latin/particular-conditions                                conditionals.htm#sect4
@@ -223,6 +223,6 @@ http://dcc.dickinson.edu/grammar/latin/verb-moods-and-tenses                    
 http://dcc.dickinson.edu/grammar/latin/verbs-and-subjects                                   syntax.htm#sect15
 http://dcc.dickinson.edu/grammar/latin/verbs-and-subjects#double-collective-subject         syntax.htm#double-collective-subject
 http://dcc.dickinson.edu/grammar/latin/verbs-and-subjects#omission-subject-verb             syntax.htm#omission-subject-verb
-http://dcc.dickinson.edu/grammar/latin/verbs-and-subjects#ommission-subject-verb   ----> typo --- see above
+http://dcc.dickinson.edu/grammar/latin/verbs-and-subjects#ommission-subject-verb            syntax.htm#omission-subject-verb
 http://dcc.dickinson.edu/grammar/latin/vocative                                             caseuses.htm#sect3
 http://dcc.dickinson.edu/grammar/latin/vowel-and-consonant-pronunciation                    pronunciation.htm#sect5
