@@ -171,7 +171,7 @@ http://dcc.dickinson.edu/grammar/latin/present-system                           
 http://dcc.dickinson.edu/grammar/latin/present-tense                                        moods-tenses.htm#sect15
 http://dcc.dickinson.edu/grammar/latin/pronouns                                             syntax.htm#sect8
 http://dcc.dickinson.edu/grammar/latin/pronouns-classes                                     pronouns.htm#sect1
-http://dcc.dickinson.edu/grammar/latin/protasis-and-apodasis  ---typo---                    conditionals.htm#sect2
+http://dcc.dickinson.edu/grammar/latin/protasis-and-apodasis                                conditionals.htm#sect2
 http://dcc.dickinson.edu/grammar/latin/protasis-and-apodosis                                conditionals.htm#sect2
 http://dcc.dickinson.edu/grammar/latin/purpose-clauses                                      subordinate-clauses.htm#sect5
 http://dcc.dickinson.edu/grammar/latin/quantity                                             pronunciation.htm#sect6
